@@ -1,4 +1,4 @@
-# End-to-End Heart Disease Prediction
+# EDA Heart Disease Prediction with Scikit-learn
 
 This repository contains a comprehensive end-to-end project for predicting heart disease using machine learning. The project walks through the entire workflow, including data exploration, preprocessing, model training, evaluation, and deployment considerations.
 
@@ -44,8 +44,8 @@ The dataset was sourced from [UCI Machine Learning Repository](https://archive.i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
-   cd heart-disease-prediction
+   git clone https://github.com/Dawood-ML/EDA-heart-disease-prediction-with-scikit-learn.git
+   cd EDA-heart-disease-prediction-with-Scikit-learn
    ```
 
 2. Install dependencies:
