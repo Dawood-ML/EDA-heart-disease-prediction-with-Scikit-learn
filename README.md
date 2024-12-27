@@ -12,7 +12,6 @@ This repository contains a comprehensive end-to-end project for predicting heart
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
